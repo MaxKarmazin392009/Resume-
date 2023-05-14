@@ -1,0 +1,103 @@
+body {
+    background-color: blueviolet;
+    width: 99%;
+    height: auto;
+}
+
+h1 {
+    position: absolute;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(191, 123, 255);
+    font-family: monospace;
+    font-size: 40px;
+    top: 50px;
+    left: 180px;
+}
+
+p {
+    position: absolute;
+    color: white;
+    background-color: rgb(191, 123, 255);
+    font-family: monospace;
+    font-size: 20px;
+    top: 100px;
+    left: 205px;
+}
+
+.icon {
+    position: absolute;
+    background-color: blueviolet;
+    background-position: center;
+    background-size: 15px;
+    width: 130px;
+    height: 130px;
+    top: 50px;
+    left: 30px;
+    border-radius: 15px;
+    border: solid 1px;
+    
+}
+
+.text1 {
+    position: absolute;
+    font-family: monospace;
+    width: 700px;
+    height: 250px;
+    top: 245px;
+    left: 30px;
+    border-radius: 15px;
+    border: solid 2px;
+    background-color: rgb(191, 123, 255);
+}
+.text2 {
+    position: absolute;
+    font-family: monospace;
+    width: 700px;
+    height: 250px;
+    top: 510px;
+    left: 30px;
+    border-radius: 15px;
+    border: solid 2px;
+    background-color: rgb(191, 123, 255);
+}
+div>p{
+    position: absolute;
+    top: -10px;
+    left: 160px;
+}
+        .one {
+            position: absolute;
+            top: 35px;
+            left: 30px;
+        }
+        .two1 {
+            position: absolute;
+            top: 70px;
+            left: 30px;
+        }
+        .two2 {
+            position: absolute;
+            top: 105px;
+            left: 30px;
+        }
+        .three1 {
+            position: absolute;
+            top: 140px;
+            left: 30px;
+        }
+        .three2 {
+            position: absolute;
+            top: 175px;
+            left: 30px;
+        }
+.a{
+    position: absolute;
+    top: -10px;
+    left: 240px;
+}
+    .one1 {
+        position: absolute;
+        top: 90px;
+        left: 235px;
+    }

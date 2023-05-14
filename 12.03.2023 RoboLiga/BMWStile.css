@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;    
+    background-color: #000432;
+}
+
+.Center {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 30px;
+}
+.text { 
+    background-color:  #000750;
+    color: white;
+    size: 100%;
+    border-radius: 5px;
+}
+
+button {
+    background: #00ff0d;
+    border: 0px;
+    border-radius: 5px;
+    color: #094d00;
+}

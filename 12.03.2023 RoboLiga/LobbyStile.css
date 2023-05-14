@@ -1,0 +1,118 @@
+body {
+    width: 99%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;    
+    background-color: #000432;
+}
+.text { 
+    background-color:  #000750;
+    color: white;
+    size: 100%;
+}
+.text2{
+    background-color:  #000750;
+    color: white;
+    size: 100%;
+    position: absolute;
+    left: 900px;
+    top: 300px;
+}
+    .carBMW1 {
+        position: absolute;
+        left: 755px;
+        top: 375px;
+    }
+        .testBMW1 {
+            background-color:  #000750;
+            color: white;
+            size: 100%;
+            position: absolute;
+            left: 720px;
+            top: 335px;
+        }
+    .carBMW2 {
+        position: absolute;
+        left: 755px;
+        top: 525px;
+    }
+        .testBMW2 {
+            background-color:  #000750;
+            color: white;
+            size: 100%;
+            position: absolute;
+            left: 720px;
+            top: 485px;
+        }
+    .carBMW3 {
+        position: absolute;
+        left: 755px;
+        top: 675px;
+    }
+        .testBMW3 {
+            background-color:  #000750;
+            color: white;
+            size: 100%;
+            position: absolute;
+            left: 720px;
+            top: 635px;
+        }
+        .carMer1 {
+            position: absolute;
+            left: 1020px;
+            top: 375px;
+        }
+            .testMer1 {
+                background-color:  #000750;
+                color: white;
+                size: 100%;
+                position: absolute;
+                left: 1020px;
+                top: 335px;
+            }
+        .carMer2 {
+            position: absolute;
+            left: 1020px;
+            top: 525px;
+        }
+            .testMer2 {
+                background-color:  #000750;
+                color: white;
+                size: 100%;
+                position: absolute;
+                left: 1010px;
+                top: 485px;
+            }
+        .carMer3 {
+            position: absolute;
+            left: 1020px;
+            top: 675px;
+        }
+            .testMer3 {
+                background-color:  #000750;
+                color: white;
+                size: 100%;
+                position: absolute;
+                left: 1010px;
+                top: 635px;
+            }
+button {
+    position: absolute;
+    left: 735px;
+    top: 850px;
+    width: 500px;
+    background: #00ff0d;
+    border: 0px;
+    border-radius: 5px;
+    color: #094d00;
+    
+}
+
+button:hover {
+    transform: scale(1.2);
+}
+img:hover {
+    transform: scale(1.2);
+}
